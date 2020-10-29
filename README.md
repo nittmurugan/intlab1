@@ -8,7 +8,7 @@ Make sure you have Python 3.6 installed with pip and virtualenv
 ```
 git clone git@github.com:nittmurugan/intlab1.git
 docker build -t intlab-srini .
-docker run  docker run -d -p 8080:8080 intlab-srini
+docker run -d -p 8080:8080 intlab-srini
 ``` 
 
 ## Useful Docker commands
